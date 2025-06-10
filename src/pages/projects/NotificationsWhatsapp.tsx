@@ -9,7 +9,7 @@ export const NotificationsWhatsapp: React.FC<NotificationsWhatsappProps> = ({ on
   return (
     <ProjectLayout
       title="Notifications Whatsapp"
-      description="Un portfolio moderne et interactif développé avec React et TypeScript, mettant en valeur mes projets avec des animations fluides et un design inspiré de Matrix."
+      description="Un site web qui permet de recevoir des notifications sur son téléphone lorsqu'il y a une nouvelles rupture sur un produit en rayonnage."
       technologies={[
         'React',
         'TypeScript',
