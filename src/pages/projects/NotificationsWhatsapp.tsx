@@ -26,24 +26,23 @@ export const NotificationsWhatsapp: React.FC<NotificationsWhatsappProps> = ({ on
       <div className="prose prose-invert max-w-none">
         <h2 className="text-3xl font-bold text-green-400 mb-6">Vue d'ensemble</h2>
         <p className="text-lg text-white/80">
-          Ce portfolio a été conçu pour présenter mes projets de manière interactive et 
-          engageante. L'interface s'inspire du film Matrix avec des animations de texte 
-          et des transitions fluides entre les pages.
+          Ce process a été réalisé pour un client qui souhaitait recevoir des notifications sur son téléphone lorsqu'il y avait une nouvelles rupture
+          sur un produit en rayonnage.
         </p>
 
         <h2 className="text-3xl font-bold text-green-400 mt-12 mb-6">Caractéristiques principales</h2>
         <ul className="space-y-4 text-lg text-white/80">
           <li className="flex items-start">
             <span className="text-green-400 mr-2">•</span>
-            Animations de type Matrix pour le texte et les transitions
+            Utilisation de l'API de WhatsApp pour envoyer des notifications
           </li>
           <li className="flex items-start">
             <span className="text-green-400 mr-2">•</span>
-            Carrousel de projets avec effet 3D
+            Utilisation d'un serveur pour envoyer les notifications
           </li>
           <li className="flex items-start">
             <span className="text-green-400 mr-2">•</span>
-            Navigation fluide entre les pages
+            Architecture MVC avec CodeIgniter 4
           </li>
           <li className="flex items-start">
             <span className="text-green-400 mr-2">•</span>

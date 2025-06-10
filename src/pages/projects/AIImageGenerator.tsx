@@ -19,8 +19,8 @@ export const AIImageGenerator: React.FC<AIImageGeneratorProps> = ({ onNavigate }
         'AWS'
       ]}
       imageUrl="https://images.unsplash.com/photo-1677442136019-21780ecad995"
-      demoUrl="https://ai-image-generator.demo.com"
-      githubUrl="https://github.com/username/ai-image-generator"
+      demoUrl="https://hire-me.demo.com"
+      githubUrl="https://github.com/username/hire-me"
       onNavigate={onNavigate}
     >
       <div className="prose prose-invert max-w-none">

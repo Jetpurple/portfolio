@@ -164,7 +164,7 @@ function AppContent() {
       <Routes>
         <Route path="/" element={<HomePage onNavigate={handleNavigate} />} />
         <Route path="/projects/notifications-whatsapp" element={<NotificationsWhatsapp onNavigate={handleNavigate} />} />
-        <Route path="/projects/ai-image-generator" element={<AIImageGenerator onNavigate={handleNavigate} />} />
+        <Route path="/projects/hire-me" element={<AIImageGenerator onNavigate={handleNavigate} />} />
         <Route path="/projects/fittrack-pro" element={<FitTrackPro onNavigate={handleNavigate} />} />
         <Route path="/projects/cryptovault-defi" element={<CryptoVaultDeFi onNavigate={handleNavigate} />} />
       </Routes>

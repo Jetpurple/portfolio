@@ -9,20 +9,20 @@ export const images: Image[] = [
   },
   {
     id: 1,
-    name: 'AI Image Generator',
-    url: '/images/ai-image.jpeg',
-    detailsUrl: '/projects/ai-image-generator'
+    name: 'Hire Me',
+    url: '/images/presentation_hire_me.png',
+    detailsUrl: '/projects/hire-me'
   },
   {
     id: 2,
-    name: 'FitTrack Pro',
-    url: '/images/fittrack.jpeg',
+    name: 'Prompt Consulting',
+    url: '/images/presentation_prompt_consulting.jpg',
     detailsUrl: '/projects/fittrack-pro'
   },
   {
     id: 3,
-    name: 'CryptoVault DeFi',
-    url: '/images/crypto.jpeg',
+    name: 'Fitness Tracker Report',
+    url: '/images/fittrack.jpeg',
     detailsUrl: '/projects/cryptovault-defi'
   },
   { 
